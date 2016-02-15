@@ -1,0 +1,99 @@
+
+.menu {
+
+float: left;
+margin:0px 276px;
+}
+
+
+.nav {
+padding-left: 0;
+margin-bottom: 0;
+list-style: none;
+}
+.menu li {
+display: inline-block;
+}
+.menu li a {
+display: block;
+font-size: 0.85em;
+text-transform: uppercase;
+padding: 5px 15px;
+color: #6ABD11;
+text-decoration:none;
+font-weight: 500;
+font-style:bold;
+}
+.nav > li > a {
+position: relative;
+display: block;
+padding: 10px 15px;
+}
+a {
+background: transparent;
+}
+
+
+.section
+{
+width:90%;
+height:300px;
+
+margin: 91px 79px;
+}
+.sleft
+{
+width:50%;
+height:280px;
+
+float:left;
+}
+
+
+.sright
+{
+width:48%;
+height:280px;
+
+float:right;
+}
+
+
+.wrapper {
+margin: 0 auto;
+width: 985px;
+}
+.footercontact {
+float: left;
+margin-right: 50px;
+}
+.contactfield {
+
+padding: 5px 10px;
+font-size: 12px;
+margin: 0 0 15px;
+width: 400px;
+
+height: 30px;
+
+font-family: OpenSans, Times, serif;
+margin-bottom: 10px;
+}
+.contactmessage {
+
+width: 400px;
+font-size: 12px;
+padding: 10px;
+height: 120px;
+
+
+font-family: OpenSans, Times, serif;
+}
+
+.footerlinks {
+padding: 0;
+list-style: none;
+zoom: 1;
+float: right;
+margin-left: 15px;
+}
